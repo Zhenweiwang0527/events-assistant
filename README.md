@@ -14,5 +14,7 @@ This viewer is a convenient CLI tool to view your tickets on Zendesk. Please fol
 Ticket viewer features:
 
 1. View brief information of all tickets (ID, lastopentime, subject, last update user).
-2. View the detail of a ticket by choosing ID.
+2. View the detail of a ticket by specific ID.
+
+Have a good day!
 
