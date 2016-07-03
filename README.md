@@ -1,23 +1,16 @@
 # events-assistant
 
-Welcome to ticket viewer! <br>
+Welcome to ticket viewer! 
 
-1. numbers
+Definition lists: 
 
-A. upper-case letters
-   and it goes over many lines
+what 
+  Definition lists associate a term with 
+  a definition. 
 
-   with two paragraphs and all!
-
-a. lower-case letters
-
-   3. with a sub-list starting at a different number
-   4. make sure the numbers are in the correct sequence though!
-
-I. upper-case roman numerals
-
-i. lower-case roman numerals
-
-(1) numbers again
-
-1) and again
+how 
+  The term is a one-line phrase, and the 
+  definition is one or more paragraphs or 
+  body elements, indented relative to the 
+  term. Blank lines are not allowed 
+  between term and definition.
