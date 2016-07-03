@@ -10,6 +10,9 @@ This viewer is a convenient CLI tool to view your tickets on Zendesk. Please fol
 4. Right click 'computer' icon on the desktop -> select properties -> advanced system settings -> environment variables->system variables -> path ->edit->add the path of executable files' folder in the end. (remember to add semicolon)
 5. Run the executable file of ticket viewer.
 
+
 Ticket viewer features:
+
 1. View brief information of all tickets (ID, lastopentime, subject, last update user).
 2. View the detail of a ticket by choosing ID.
+
