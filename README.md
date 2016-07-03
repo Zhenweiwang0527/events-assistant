@@ -1,4 +1,4 @@
-# events-assistant
+# Ticket Viewer
 
 Welcome to ticket viewer! 
 
